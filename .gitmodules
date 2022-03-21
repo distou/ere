@@ -4,3 +4,6 @@
 [submodule "libs/zgl"]
 	path = libs/zgl
 	url = https://github.com/ziglibs/zgl
+[submodule "libs/zlm"]
+	path = libs/zlm
+	url = https://github.com/ziglibs/zlm
